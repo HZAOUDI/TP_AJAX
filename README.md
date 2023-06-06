@@ -25,3 +25,9 @@ création, signature, affichage, modification, suppression (pétition et/ou sign
 
 7.Ajouter une zone de texte dans le formulaire « Signature » permettant d’afficher les cinq dernières signatures ajoutées.
 –Utiliser l’objet XMLHttpRequest pour que la mise à jour de la liste se fasse de façon asynchrone.
+
+![1](https://github.com/HZAOUDI/TP_AJAX/assets/125825033/a5ae5e9c-32b1-44cd-966d-1536642fcc11)
+![2](https://github.com/HZAOUDI/TP_AJAX/assets/125825033/336fd9fd-5c2f-4d6f-8e68-3b6c89791c84)
+![3](https://github.com/HZAOUDI/TP_AJAX/assets/125825033/336fa971-bdfb-4cc2-bc7d-24a16bb52481)
+![4](https://github.com/HZAOUDI/TP_AJAX/assets/125825033/8ebb7d1c-1254-41e0-be5f-6d2fdb99e483)
+![5](https://github.com/HZAOUDI/TP_AJAX/assets/125825033/fee1d4c1-2834-48db-98d6-dcce9716fd5f)
